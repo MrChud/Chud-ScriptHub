@@ -8,7 +8,7 @@ local Games = {
     [96631482586923] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/Pixel%20Blade",
     [133884972346775] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/Pixel%20Blade",
     -----Paint Or Die-----
-    [71550395053745] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/Paint%20Or%20Die",
+    [10234839471] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/Paint%20Or%20Die",
 }
 
 -- Check if the current game is in your table
