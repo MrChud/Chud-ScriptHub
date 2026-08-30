@@ -15,7 +15,7 @@ local Games = {
     [136801880565837] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/Flick",
 }
 
--- Check if the current game is in your table
+
 if Games[PlaceId] then
     print("Game Found. Executing script...")
     
