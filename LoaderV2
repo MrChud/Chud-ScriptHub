@@ -10,9 +10,9 @@ local Games = {
     --Defusal--
     [79393329652220] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/Defusal",
     --Prison Life--
-    [155615604] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/PrisonLife"
+    [155615604] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/PrisonLife",
     --Flick--
-    [136801880565837] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/Flick"
+    [136801880565837] = "https://raw.githubusercontent.com/MrChud/Chud-ScriptHub/refs/heads/main/Flick",
 }
 
 -- Check if the current game is in your table
